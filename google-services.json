@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1099392324348",
+    "firebase_url": "https://testchat-fec74.firebaseio.com",
+    "project_id": "testchat-fec74",
+    "storage_bucket": "testchat-fec74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099392324348:android:b5b9ebc573f9b2bf",
+        "android_client_info": {
+          "package_name": "com.okldk.testchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099392324348-0q31m6plo7jqaj5a5ql6qacqpnp1pi2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.okldk.testchat",
+            "certificate_hash": "9a879a85a43bbaa73334e55590f62224d6dc2d3a"
+          }
+        },
+        {
+          "client_id": "1099392324348-fdsv1hvh7nn4d72m7j43vqi12fvb5kvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8O_1MVer5spIXdjuGAC9zViOJf01Doo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099392324348-fdsv1hvh7nn4d72m7j43vqi12fvb5kvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
